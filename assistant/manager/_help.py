@@ -1,7 +1,7 @@
-# Ultroid - UserBot
-# Copyright (C) 2021-2023 TeamUltroid
+# CHOCOLATY_VIRUS_USERBOT
+# Copyright (C) 2021-2023 CHOCOLATY_VIRUS_USERBOT
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/CHOCOLATY_VIRUS_USERBOT/ >
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 
@@ -14,7 +14,7 @@ START = """
 ✘  /help : Get This Message.
 ✘  /repo : Get Bot's Repo..
 
-🧑‍💻 Join **@TeamUltroid**
+🧑‍💻 Join **@ll_ITZ_CHOCOLATY_ll**
 """
 
 ADMINTOOLS = """✘ **AdminTools** ✘
