@@ -1,7 +1,7 @@
-# Ultroid - UserBot
-# Copyright (C) 2021-2023 TeamUltroid
+# CHOCOLATY_VIRUS_USERBOT
+# Copyright (C) 2021-2023 CHOCOLATY_VIRUS_USERBOT
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/CHOCOLATY_VIRUS_USERBOT/ >
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 
@@ -14,7 +14,7 @@ from pyUltroid import _ult_cache
 from . import *
 
 
-@ultroid_cmd(pattern="d(kick|ban)", manager=True, require="ban_users")
+@ll_ITZ_CHOCOLATY_ll_cmd(pattern="d(kick|ban)", manager=True, require="ban_users")
 async def dowj(e):
     replied = await e.get_reply_message()
     if replied:
