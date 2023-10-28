@@ -1,7 +1,7 @@
-# Ultroid - UserBot
-# Copyright (C) 2021-2023 TeamUltroid
+# CHOCOLATY_VIRUS_USERBOT
+# Copyright (C) 2021-2023 CHOCOLATY_VIRUS_USERBOT
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/CHOCOLATY_VIRUS_USERBOT/ >
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 
@@ -10,14 +10,14 @@ import re
 from . import *
 
 STRINGS = {
-    1: """🎇 **Thanks for Deploying Ultroid Userbot!**
+    1: """🎇 **Thanks for Deploying CHOCOLATY_VIRUS_USERBOT!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage.""",
-    2: """🎉** About Ultroid**
+    2: """🎉** CHOCOLATY_VIRUS_USERBOT**
 
 🧿 Ultroid is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
 
-❣ Made by **@TeamUltroid**""",
+❣ Made by **@ll_ITZ_CHOCOLATY_ll**""",
     3: """**💡• FAQs •**
 
 -> [Username Tracker](https://t.me/UltroidUpdates/24)
@@ -32,7 +32,7 @@ STRINGS = {
 -> [Also Check](https://t.me/UltroidUpdates/14)
 
 **• To Know About Updates**
-  - Join @TeamUltroid.""",
+  - Join @ll_ITZ_CHOCOLATY_ll.""",
     4: f"""• `To Know All Available Commands`
 
   - `{HNDLR}help`
