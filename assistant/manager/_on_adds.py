@@ -1,5 +1,5 @@
-#CHOCOLATY_VIRUS_USERBOT
-# Copyright (C) 2021-2023 TeamUltroid
+# CHOCOLATY_VIRUS_USERBOT
+# Copyright (C) 2021-2023 CHOCOLATY_VIRUS_USERBOT
 #
 # This file is a part of < https://github.com/CHOCOLATY_VIRUS_USERBOT/ >
 # PLease read the GNU Affero General Public License in
