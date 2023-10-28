@@ -1,7 +1,7 @@
-# Ultroid - UserBot
-# Copyright (C) 2021-2023 TeamUltroid
+# ll_ITZ_CHOCOLATY_ll
+# Copyright (C) 2021-2023 ll_ITZ_CHOCOLATY_ll
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/ll_ITZ_CHOCOLATY_ll/ >
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 
